@@ -1,4 +1,3 @@
-%% Modeling synaptic transmission, Final Project, Greg Kronberg
 % This program models a group of poisson presynaptic terminals that are
 % stimulated by a focal extracellular electrode in a brain slice.
 % A subset of these terminals is stochastically recruited by each 
